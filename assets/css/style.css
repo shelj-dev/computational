@@ -238,6 +238,11 @@ header
 --------------------------------------------- 
 */
 
+.logo-img{
+    /* height: 140px; */
+    width: 350px;
+}
+
 .background-header {
   background-color: #fff!important;
   height: 80px!important;
@@ -262,7 +267,7 @@ header
 }
 
 .header-area {
-  background-color: #fafafa;
+  background-color: white;
   position: absolute;
   top: 0px;
   left: 0px;
